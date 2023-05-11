@@ -5,3 +5,7 @@
 .h-300px {
     height: 300px!important;
 }
+
+.l-th {
+    text-decoration: line-through!important;
+}
