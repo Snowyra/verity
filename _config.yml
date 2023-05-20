@@ -1,9 +1,7 @@
 exclude:
   - CNAME
   - docs/
-
-locale: "fr"
-
+  
 compress_html:
   clippings: all
   ignore:
