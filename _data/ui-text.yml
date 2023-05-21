@@ -34,7 +34,7 @@ fr: &DEFAULT_FR
   true_a                     : "Voir l'exemple des yeux"
   true_text                  : "Voir l'exemple des yeux</a> via la photo du screen."
   true_text_second           : "ps: l'exemple est également réel au niveau de la couleur de peau ainsi que des cheveux. (qui sont légèrement moins noiratre)"
-  copyright                  : "Créer par <a href='https://github.com/nvnora' title='GitHub.com' rel='noopener' target='_blank' style='text-decoration-line: none;text-decoration: none;color: white;'>NVNora</a> avec <3 grâce a Bootstrap. | Le site n'a pas été fait pour être le plus beau du monde, mais juste être lisible est correcte un minima."
+  copyright                  : "Créer par <a href='https://github.com/snowyra' title='GitHub.com' rel='noopener' target='_blank' style='text-decoration-line: none;text-decoration: none;color: white;'>Snowyra</a> avec <3 grâce a Bootstrap. | Le site n'a pas été fait pour être le plus beau du monde, mais juste être lisible est correcte un minima."
 fr-FR:
   <<: *DEFAULT_FR
 fr-BE:
@@ -76,7 +76,7 @@ en: &DEFAULT_EN
   true_a                     : "See the example of the eyes"
   true_text                  : "See the example of the eyes</a> via the screen shot."
   true_text_second           : "ps: the example is also real at the level of the color of skin as well as hair (which are slightly less black)"
-  copyright                  : "Created by <a href='https://github.com/nvnora' title='GitHub.com' rel='noopener' target='_blank' style='text-decoration-line: none;text-decoration: none;color: white;'>NVNora</a> with <3 with Bootstrap. | The site was not made to be the most beautiful in the world, but just being readable is correct a minimum."
+  copyright                  : "Created by <a href='https://github.com/snowyra' title='GitHub.com' rel='noopener' target='_blank' style='text-decoration-line: none;text-decoration: none;color: white;'>Snowyra</a> with <3 with Bootstrap. | The site was not made to be the most beautiful in the world, but just being readable is correct a minimum."
 en-US:
   <<: *DEFAULT_EN
 en-CA:
